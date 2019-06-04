@@ -27,8 +27,8 @@ from keras.utils.vis_utils import plot_model
 
 jpeg_data = 'E:\Learning\person_predict\datasets\jpegs_hmdb51'
 pose_data = 'E:\Learning\person_predict\datasets\pose_hmdb51'
-train_path = 'E:\\Learning\\person_predict\\datasets\\hmdb51_train_small.csv'
-test_path = 'E:\\Learning\\person_predict\\datasets\\hmdb51_train_small.csv'
+train_path = 'E:\\Learning\\person_predict\\datasets\\hmdb51_train.csv'
+test_path = 'E:\\Learning\\person_predict\\datasets\\hmdb51_test.csv'
 
 image_size = 64
 validation_size = 0.2
